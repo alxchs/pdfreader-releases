@@ -1,11 +1,11 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.3",
-  "releaseDate": "2026-10-06",
-  "releaseNotes": "Versão 1.0.3: Controle de versão semântico e atualização in-app direta com download seguro em streaming, substituição atômica e reinício assistido.",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.3/PdfReaderPro.exe",
-  "sizeBytes": 73695277,
-  "sha256": "f4677e3095f02a43790de4d238271c6f6b9282c35c0a6ab9e797eb8a57d2dcad",
+  "version": "1.0.4",
+  "releaseDate": "2026-10-08",
+  "releaseNotes": "Versão 1.0.4: Suporte completo a Anotações com Notas Textuais (Sticky Notes flutuantes), novos estilos de destaque (Sublinhado e Tachado), badges indicadores na página e exportação de todas as anotações em formato Markdown.",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.4/PdfReaderPro.exe",
+  "sizeBytes": 73701817,
+  "sha256": "41e87f2ee3dbf6e42e5efa32d40baab4fc8eec9400cbc0c04247ace40eb838ad",
   "isMandatory": false
 }
 
