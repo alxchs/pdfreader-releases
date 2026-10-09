@@ -1,10 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "releaseDate": "2026-10-09",
-  "releaseNotes": "Versão 1.0.5: inclusão de comentários. Comente o trecho selecionado (botão direito, barra de ferramentas ou Ctrl+M) ou solte um comentário em qualquer ponto da página, inclusive em documentos digitalizados; arraste para mover e passe o ponteiro para ler. Correções: clicar numa marcação volta a abrir o menu dela, o cartão de comentário abre normalmente, Esc fecha menus e a pesquisa, e o contador de marcações aparece na barra de status.",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.5/PdfReaderPro.exe",
-  "sizeBytes": 73710014,
-  "sha256": "f83c0fa338976927908e4bffeb48c78913fe84c3d7e651dbd380a108e6828450",
+  "releaseNotes": "Versão 1.0.6: o item \"Verificar atualizações...\" do menu e o diálogo de atualização voltam a mostrar o ícone de download (antes aparecia um quadrado).",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.6/PdfReaderPro.exe",
+  "sizeBytes": 73710010,
+  "sha256": "8db455bd84a8064019db7b4401dbbfee9f30fae24ebf26234067c12641ca7846",
   "isMandatory": false
 }
