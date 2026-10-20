@@ -1,10 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.7",
-  "releaseDate": "2026-10-10",
-  "releaseNotes": "Versao 1.0.7: persistencia de abas em carregamento ao trocar idioma, correcao da largura util em dialogos modais e configuracoes, estabilidade de redimensionamento e sincronizacao automatica de portatil no instalador.",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.7/PdfReaderPro.exe",
-  "sizeBytes": 73714100,
-  "sha256": "ea3ac637d98f5d472e5909d8a82bab3a04c2c36f02408588932f7639709f0ed3",
+  "version": "1.0.8",
+  "releaseDate": "2026-10-20",
+  "releaseNotes": "Versao 1.0.8: SPEC-007 com temas corporativos e identidade visual do KillTask, restauracao do efeito de virar pagina (page flip) e estabilidade estatica sem jumping no painel de configuracoes.",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.8/PdfReaderPro.exe",
+  "sizeBytes": 73714104,
+  "sha256": "e41c4b36bcd6c8675e88a2a4728063291dc710348f5452e08d3173b1c8ab89a3",
   "isMandatory": false
 }
