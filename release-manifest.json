@@ -1,10 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.9",
-  "releaseDate": "2026-10-20",
-  "releaseNotes": "Versao 1.0.9: Novo icone oficial da aplicacao (app.ico com 9 resolucoes em 32-bit RGBA) e nova identidade visual com arte glassmorphism moderna e haste em acabamento Roxo/Indigo.",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.9/PdfReaderPro.exe",
-  "sizeBytes": 74766779,
-  "sha256": "5457072d5c97586ba34d01dee7b80dabdb300e3f4e6af71a9dde7ae121410c03",
+  "version": "1.0.10",
+  "releaseDate": "2026-10-21",
+  "releaseNotes": "Versao 1.0.10: SPEC-008 oficial com host nativo leve para Linux (.NET 8 + Photino.NET / WebKitGTK), pacote distribuivel tar.gz com instalador, e correcoes de estabilidade.",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.10/PdfReaderPro.exe",
+  "sizeBytes": 74767154,
+  "sha256": "088016776df38ce81e70a05caa12ecffa91e560da129d91edab6866e4c5fa435",
   "isMandatory": false
 }
