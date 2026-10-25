@@ -1,11 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.12",
-  "releaseDate": "2026-10-22",
-  "releaseNotes": "Versao 1.0.12: Correcao do loop do atualizador automatico com renomeacao atomica e retries de substituicao (SPEC-010).",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.12/PdfReaderPro.exe",
-  "sizeBytes": 74773987,
-  "sha256": "723466350440FB94787C8898AC9B1A8FFDEF9B8F6A5FD5C8E2F62B62E3719DE4",
+  "version": "1.0.13",
+  "releaseDate": "2026-10-25",
+  "releaseNotes": "Versao 1.0.13: Correcao do zoom fit-width com rolagem vertical suave ate o rodape em todos os modos e prevencao de barra horizontal (SPEC-011).",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.13/PdfReaderPro.exe",
+  "sizeBytes": 74773415,
+  "sha256": "A4DAFDBA71E079A69216C76507499CF03A389BA178EBE1D884053DA19C6D6397",
   "isMandatory": false
 }
-
