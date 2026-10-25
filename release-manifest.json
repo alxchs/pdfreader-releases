@@ -1,10 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "releaseDate": "2026-10-25",
-  "releaseNotes": "Versao 1.0.13: Correcao do zoom fit-width com rolagem vertical suave ate o rodape em todos os modos e prevencao de barra horizontal (SPEC-011).",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.13/PdfReaderPro.exe",
-  "sizeBytes": 74773415,
-  "sha256": "A4DAFDBA71E079A69216C76507499CF03A389BA178EBE1D884053DA19C6D6397",
+  "releaseNotes": "Versao 1.0.14: Revisao e correcao de z-index de tooltips/hints em camada flutuante singleton global com orientacao inteligente (SPEC-012).",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.14/PdfReaderPro.exe",
+  "sizeBytes": 74773413,
+  "sha256": "AD24A6A20800CD68312028BC5F5DB9327AFA7003D113F326E7B223DBA7971D34",
   "isMandatory": false
 }
