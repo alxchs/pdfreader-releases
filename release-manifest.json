@@ -1,10 +1,10 @@
 {
   "productName": "PDF Reader Professional",
-  "version": "1.0.14",
+  "version": "1.0.16",
   "releaseDate": "2026-10-25",
-  "releaseNotes": "Versao 1.0.14: Revisao e correcao de z-index de tooltips/hints em camada flutuante singleton global com orientacao inteligente (SPEC-012).",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.14/PdfReaderPro.exe",
-  "sizeBytes": 74773413,
-  "sha256": "AD24A6A20800CD68312028BC5F5DB9327AFA7003D113F326E7B223DBA7971D34",
+  "releaseNotes": "Versao 1.0.16: Botoes da barra de ferramentas 40% maiores (42px) e migracao completa para a biblioteca oficial Microsoft Fluent System Icons (SPEC-014).",
+  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.16/PdfReaderPro.exe",
+  "sizeBytes": 74777507,
+  "sha256": "4DA24F64DA5C039B9AEC95B076423082231596AA092E469FF851C070E19D7F51",
   "isMandatory": false
 }
