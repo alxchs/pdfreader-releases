@@ -1,10 +1,10 @@
 {
-  "productName": "PDF Reader Professional",
-  "version": "1.0.17",
-  "releaseDate": "2026-11-09",
-  "releaseNotes": "Versao 1.0.17: Correcao do desfoque visual apos impressao (SPEC-015), restauracao em tempo real com DPI nativo e limpeza imediata de memoria.",
-  "downloadUrl": "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.17/PdfReaderPro.exe",
-  "sizeBytes": 74777508,
-  "sha256": "AB986DD9C89158211BE208309E30D7F89366C28C671E7115563FAB9B5388B329",
-  "isMandatory": false
+    "productName":  "PDF Reader Professional",
+    "version":  "1.0.18",
+    "releaseDate":  "2026-11-24",
+    "releaseNotes":  "Versao 1.0.18: Suporte a gestos touch nativos, pinch-to-zoom fluido via GPU, modo continuo e layout responsivo no Android.",
+    "downloadUrl":  "https://github.com/alxchs/pdfreader-releases/releases/download/v1.0.18/PdfReaderPro.exe",
+    "sizeBytes":  74781610,
+    "sha256":  "F5AC1C5EF6BF289522BA6E429E957D180F562D13926CE8469D4ABA1C37299A92",
+    "isMandatory":  false
 }
